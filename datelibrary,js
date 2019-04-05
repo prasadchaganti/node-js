@@ -1,0 +1,6 @@
+var datelibrary=funtion()
+    {
+
+    return Date()
+}
+exports.mydate= datelibrary
